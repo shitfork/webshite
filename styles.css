@@ -2,3 +2,7 @@ body {
   background-color: #000000; 
   font-family: "Comic Sans", "comic sans ms", cursive, sans-serif;
 }
+
+ul.features {
+  list-style-image: url('https://web.archive.org/web/20090804135528im_/http://geocities.com/SunsetStrip/Street/2200/Imagens/Imagem_Fire.gif');
+}
